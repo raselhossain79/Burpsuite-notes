@@ -15,7 +15,7 @@ Not copy-pasted theory — actual techniques used in labs and real testing scena
 ## 📂 Contents
 
 | File | Topic |
-|------|-------|
+|-------|-------|
 | [01 — Setup](./01-burp-setup.md) | Installation, CA certificate, browser config, scope |
 | [02 — Proxy](./02-burp-proxy.md) | Intercept, modify, HTTP history, WAF bypass headers |
 | [03 — Repeater](./03-burp-repeater.md) | Manual testing, SQLi, XSS, IDOR, session manipulation |
